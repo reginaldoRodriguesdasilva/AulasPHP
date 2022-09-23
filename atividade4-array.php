@@ -2,7 +2,7 @@
 
 $funcionario =[
        [ 
-           "nome" => "José Carlos", 
+        "nome" => "José Carlos", 
         "cpf" => "222.222.333-77",
         "data_nasc" => "20/05/1972",
         "cidade" => "Marília",
